@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">Game Developer</h3>
+<h3 align="center">Developer</h3>
 
 <h3 align="center">A passionate developer from Turkey</h3>
 
