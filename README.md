@@ -10,9 +10,6 @@ I am always open to <b>self-improvement</b> and <b>learning new things</b>.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamemirshn&label=Profile%20views&color=0e75b6&style=flat" alt="iamemirshn" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
