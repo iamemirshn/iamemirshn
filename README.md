@@ -11,11 +11,7 @@ I am always open to <b>self-improvement</b> and <b>learning new things</b>.
 ---
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://emirshn.com/images/avatar.png" alt="iamemirshn" />
-  </a>
-</p>
+
 
 ---
 
