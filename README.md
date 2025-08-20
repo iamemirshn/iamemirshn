@@ -16,7 +16,7 @@ I am always open to <b>self-improvement</b> and <b>learning new things</b>.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamemirshn&theme=algolia" alt="iamemirshn" />
+    <img src="https://emirshn.com/images/avatar.png" alt="iamemirshn" />
   </a>
 </p>
 
